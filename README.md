@@ -28,7 +28,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 # 三 Resources
 
 ## 3.1 Core Developers
-- [яobin linus](https://twitter.com/robin_linust)
+- [яobin linus](https://twitter.com/robin_linus)
 - [Super Testnet](https://twitter.com/super_testnet)
 - [Lukas](https://twitter.com/lucidLuckylee)
 
